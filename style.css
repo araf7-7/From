@@ -1,0 +1,63 @@
+*{
+  font-family: 'Lato', sans-serif;
+  
+}
+.body{
+  background-color: #292948;
+  color: white;
+  margin-left: 400px;
+  margin-right: 300px;
+  
+}
+body{
+  background-image:  url("https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8=");
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-filter: ; 
+}
+
+
+.inline {
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+    
+  }
+  .inline{
+    display: inline;
+  }
+
+  .h1{
+    margin: 10px 0 0 0;
+    width: 100%;
+    min-height: 2em;
+    background-color: white;
+    border: 1px solid #0a0a23;
+    border-radius: 6px;
+    color: black;
+  }
+
+  .form{
+    width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding-bottom: 2px;
+  border: none ;
+  }
+  .submit{
+    display: block;
+  width: 80%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: green;
+  border-color: white;
+  min-width: 300px;
+  }
+  .select{
+    margin: 10px 0 0 0;
+    width: 100%;
+    min-height: 2em;
+  
+  }
